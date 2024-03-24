@@ -78,8 +78,8 @@ public class RegistrationForm extends JDialog {
     private User addUserToDatabase(String name, String email, String phone, String address, String password) {
         User user = null; // Initialize user object
         final String DB_URL = "jdbc:oracle:thin:@fsktmdbora.upm.edu.my:1521:FSKTM";
-        final String USERNAME = "A214943";
-        final String PASSWORD = "214943";
+        final String USERNAME = "********";
+        final String PASSWORD = "*******";
 
         try {
             // Establish connection to the database
