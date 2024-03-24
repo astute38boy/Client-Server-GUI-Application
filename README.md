@@ -1,2 +1,2 @@
-# Client-Server-GUI-Application
-This is my first project on GitHub
+# Explanation about my Client-Server-GUI-Application project
+This project showcases the creation of a basic Client-Server GUI application using Java Swing for the user interface, socket programming for network communication, and JDBC for establishing connections to an Oracle database. Through this application, clients can communicate with a central server over a network, with seamless integration to an Oracle database for data storage and retrieval. This project provides a straightforward example for beginners to comprehend client-server communication, GUI development, and Oracle database connectivity in Java applications.
